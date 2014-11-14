@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
-    id        = "com.phonegap.cursoPG"
-    version   = "1.0.0">
+    id        = "com.mtmarketing.site"
+    version   = "0.1.0">
 
 
 
-<name>Curso PhoneGap</name>
+<name>MT Marketing</name>
 
 <description>
-Proyecto de ejemplo del curso Phongap video2brain
+Aplicación de ejemplo MT Marketing
 </description>
 
-<author href="https://www.contanimacion.com" email="info@contanimacion.com">
-Jorge G. villanueva
+<author href="https://www.mtmarketing.com.ve" email="info@contanimacion.com">
+Enio García
 </author>
 
 
